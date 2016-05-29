@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=void\ creaBoton(int)
+comment0.text=\r\n\ Metodo\ que\ crea\ los\ botones\ para\ el\ menu.\r\n\ @param\ num\ Recibe\ como\ parametro\ un\ numero\ de\ acuerdo\ a\ que\ bot\u00F3n\ se\ quiere\ crear.\r\n
+numComments=1

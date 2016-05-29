@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=UnTexto\ UnColor
+comment0.target=Mensaje(java.lang.String,\ java.awt.Color)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Mensaje\r\n
+comment1.params=
+comment1.target=void\ actualizaImagen()
+comment1.text=\r\n\ Metodo\ que\ actualiza\ la\ imagen\ del\ mensaje\r\n
+comment2.params=texto
+comment2.target=void\ ponTexto(java.lang.String)
+comment2.text=\r\n\ Metodo\ que\ actualiza\ el\ texto\ del\ mesaje\r\n
+numComments=3
